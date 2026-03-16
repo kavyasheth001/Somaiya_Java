@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ClassConnect Backend 🎓
 
 A comprehensive Spring Boot backend for K J Somaiya Institute of Technology's academic platform, designed to manage teachers, students, courses, assignments, attendance, and performance tracking.
@@ -287,3 +288,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Built with ❤️ for K J Somaiya Institute of Technology
 
+=======
+# Somaiya_Java
+somaiya backend
+>>>>>>> 0a8d0b822a45f7ecdfb2f3c3d20e5a76a004f898
